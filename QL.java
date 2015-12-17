@@ -1,8 +1,9 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file ql.hpp
+ * @file QL.java
  * @author  Norbert Bátfai <nbatfai@gmail.com>
+ * @author  Szanics Levente <szanicsl@gmail.com>
  * @version 0.0.1
  *
  * @section LICENSE
@@ -31,6 +32,9 @@
  * that Samu will be the ancestor of developmental robotics chatter 
  * bots that will be able to chat in natural language like humans do.
  *
+ * @section MODIFICATION
+ * 
+ * I (Szanics Levente) made a java Samu code from the c++ Samu.
  */
 
 import java.util.*;
